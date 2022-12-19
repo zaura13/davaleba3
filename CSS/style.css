@@ -1,0 +1,71 @@
+
+/*  start header */
+.logo{
+    margin: 31px 50px 77px 30px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nav{
+    list-style: none;
+    display: inline-block;
+}
+.nav li{
+       display: inline-block;
+       margin: 31px 20px 77px;
+       vertical-align: middle
+}
+.nav_lnk{
+    font-size:22px;
+    color: #3D58A6;
+    text-decoration: none;
+}
+
+/* banner  */
+
+.banner1{
+    margin: 30px 98px 115px 90px ;
+}
+
+/* start section  */
+.feature{
+    font-size: 24px;
+    margin-bottom: 25px;
+    margin-left: 98px;
+}  
+.cont{
+    margin-left: 98px;
+    margin-bottom: 65px;
+}
+
+.container{
+    width: 570px;
+    height: 225px;
+    background-color: #F2F2F2;
+    margin-right: 20px;
+    padding: 25px;
+    display: inline-block;
+}
+.title{
+    font-size: 22px;
+    color: #3D58A6;
+    margin-bottom: 20px;
+
+}
+
+.sec2_txt{
+    font-size: 19px;
+    display: inline-block;
+    vertical-align: top;
+    width: 355px;
+    height: 144;
+    margin-left: 50px;
+}
+/* start footer */
+.footricon{
+    margin: 32px 30px 29px ; 
+     
+ }
+ .facebook{
+    margin-left: 98px;
+ }
