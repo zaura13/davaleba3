@@ -1,5 +1,8 @@
 
 /*  start header */
+.nav_lnk {
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
 .logo{
     margin: 31px 50px 77px 30px;
     display: inline-block;
@@ -15,11 +18,16 @@
        margin: 31px 20px 77px;
        vertical-align: middle
 }
+
 .nav_lnk{
     font-size:22px;
     color: #3D58A6;
     text-decoration: none;
 }
+.nav_lnk_active{
+    color:#EE4036 ;
+}
+
 
 /* banner  */
 

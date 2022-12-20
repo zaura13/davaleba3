@@ -1,0 +1,87 @@
+.nav_lnk , h2{
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+p , a {
+    font-family: "BPG Ingiri Arial", sans-serif;
+}
+h2{
+    font-size: 20px;
+    color: #3D58A6;
+ }
+ 
+ p{
+     font-size: 16px;
+     color: #808080;
+ }
+ a{
+     font-size: 16px;
+     color: #000000;
+ }
+
+.logo{
+    margin: 31px 50px 77px 30px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nav{
+    list-style: none;
+    display: inline-block;
+}
+.nav li{
+       display: inline-block;
+       margin: 31px 20px 77px;
+       vertical-align: middle
+}
+.nav_lnk , .month{
+    font-size:22px;
+    color: #3D58A6;
+    text-decoration: none;
+    
+}
+
+
+.nav_lnk_active{
+    color:#EE4036 ;
+}
+
+/* section map */
+
+.container{
+    background-color: #E6E6E6;
+    padding: 40px 95px 65px;
+    margin-bottom: 31px;
+
+
+}
+.inf_map{
+    width: 1175px;
+    margin: 0 auto;
+
+}
+
+.info{
+    width: 270px;
+    height: 110px;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 22px;
+    margin-right: 40px;
+
+}
+
+.map{
+    width: 860px;
+    height: 470px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+/* start footer */
+.footricon{
+    margin: 32px 30px 29px ; 
+     
+ }
+ .facebook{
+    margin-left: 30px;
+ }

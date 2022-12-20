@@ -46,6 +46,10 @@ table {
     border-spacing: 0;
 }
 
+a{
+    list-style: none;
+    text-decoration: none;
+}
 *{
     box-sizing: border-box;
 }
